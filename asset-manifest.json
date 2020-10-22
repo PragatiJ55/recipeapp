@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PragatiJ55/React-Recipe-app.git/static/css/main.0a1a635f.chunk.css",
+    "main.js": "/PragatiJ55/React-Recipe-app.git/static/js/main.8c97b348.chunk.js",
+    "main.js.map": "/PragatiJ55/React-Recipe-app.git/static/js/main.8c97b348.chunk.js.map",
+    "runtime-main.js": "/PragatiJ55/React-Recipe-app.git/static/js/runtime-main.b3e95b85.js",
+    "runtime-main.js.map": "/PragatiJ55/React-Recipe-app.git/static/js/runtime-main.b3e95b85.js.map",
+    "static/js/2.0327b1c8.chunk.js": "/PragatiJ55/React-Recipe-app.git/static/js/2.0327b1c8.chunk.js",
+    "static/js/2.0327b1c8.chunk.js.map": "/PragatiJ55/React-Recipe-app.git/static/js/2.0327b1c8.chunk.js.map",
+    "index.html": "/PragatiJ55/React-Recipe-app.git/index.html",
+    "precache-manifest.39e0c8bc1cdcf4a282ddd7bd1b207814.js": "/PragatiJ55/React-Recipe-app.git/precache-manifest.39e0c8bc1cdcf4a282ddd7bd1b207814.js",
+    "service-worker.js": "/PragatiJ55/React-Recipe-app.git/service-worker.js",
+    "static/css/main.0a1a635f.chunk.css.map": "/PragatiJ55/React-Recipe-app.git/static/css/main.0a1a635f.chunk.css.map",
+    "static/js/2.0327b1c8.chunk.js.LICENSE.txt": "/PragatiJ55/React-Recipe-app.git/static/js/2.0327b1c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3e95b85.js",
+    "static/js/2.0327b1c8.chunk.js",
+    "static/css/main.0a1a635f.chunk.css",
+    "static/js/main.8c97b348.chunk.js"
+  ]
+}
